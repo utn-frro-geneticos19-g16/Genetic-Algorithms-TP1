@@ -187,7 +187,7 @@ class Population(object):
             return False
 
     def mutation(self, chrom):  # Select one random Gen and Switch its Value
-        mutPos = random.randint(1, len(self.population))
+        mutPos = random.randint(1, self.chromSize)
         newBody = []
         for i in range(len(chrom.getBody())):
             if i != mutPos:
