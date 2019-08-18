@@ -1,6 +1,8 @@
-# Genetic-Algorithms
-Trabajos para Algoritmos Genéticos (UTN FRRo 2019)
+﻿# Genetic-Algorithms
+TP1 - Canonical Genetic Algorithm
 
-Lenguajes: Python / C++
+Trabajo Práctico para la Cátedra de Algoritmos Genéticos (UTN FRRo 2019)
 
-Inregrantes: Antonelli - Recalde - Rohn
+Lenguaje: Python
+
+Integrantes: Antonelli - Recalde - Rohn
